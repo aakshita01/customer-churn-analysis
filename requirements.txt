@@ -1,0 +1,7 @@
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1733440914442/work
+jupyter_core @ file:///D:/bld/jupyter_core_1710257272359/work
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+
+
