@@ -29,7 +29,7 @@ This project predicts whether a customer will leave the bank based on their demo
 - Jupyter Notebooks
 - Pickle
 
----
+```
 
 ## 📂 Project Structure
 CHURN_ANALYSIS/ ├── data/ │ └── Churn_Modelling.csv ├── model/ │ └── churn_train_model.pkl ├── notebooks/ │ ├── churn_train_model.ipynb │ └── churn_visualize.ipynb ├── requirements.txt └── README.md
